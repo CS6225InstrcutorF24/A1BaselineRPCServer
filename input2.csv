@@ -1,0 +1,8 @@
+define_stuff,apples,healthy
+get_count,apples
+get_count,oranges
+add,7,apples
+remove,3,apples
+get_count,apples
+undefine,apples
+get_count,apples
